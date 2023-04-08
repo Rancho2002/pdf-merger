@@ -6,10 +6,14 @@
 * Create a folder and bring all your pdfs which have to be merged and rename them according to numeric or alphabatic order
 * Bring that exe file into the folder and double click on it
 
+## Warnings you can avoid
+![image](https://user-images.githubusercontent.com/92109154/230709952-a2dfe87f-9efb-45d9-a46b-1a26101493d1.png)
+![image](https://user-images.githubusercontent.com/92109154/230709957-aadc30e7-50eb-42cc-ba0f-972416352efb.png)
+
+
 ## Video Demo
 
 https://user-images.githubusercontent.com/92109154/230680132-bf5efcc1-685b-4f1d-b0d4-67f188400fd2.mp4
-
 
 ## Contributing
 
