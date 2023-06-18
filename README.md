@@ -10,6 +10,12 @@
 ![image](https://user-images.githubusercontent.com/92109154/230709952-a2dfe87f-9efb-45d9-a46b-1a26101493d1.png)
 ![image](https://user-images.githubusercontent.com/92109154/230709957-aadc30e7-50eb-42cc-ba0f-972416352efb.png)
 
+## To run in ubuntu
+# Step 1 : 
+![image](https://github.com/Rancho2002/pdf-merger/assets/92109154/060788cd-c2af-45b6-b4e4-ce014ed462f1)
+# Step 2:
+![image](https://github.com/Rancho2002/pdf-merger/assets/92109154/6f3e1387-f78a-4ff1-9d28-79e97306ae00)
+
 
 ## Video Demo
 
