@@ -1,10 +1,12 @@
 
 # PDF-MERGER
 
+Tired of using online pdf tools to merge multiple pdfs, also annoying ads for merging more files or doing for multiple times? Don't worry, pdf-merger brings those problems to an end and gives a convenient way to merge pdf offline. Also, splitting a pdf into multiple pages has also become easy with this. :)
+
 ### Steps to use pdf-merger for free and offline ;)
 * DOWNLOAD the pdf-merger.exe in your local
-* Create a folder and bring all your pdfs which have to be merged and rename them according to numeric or alphabatic order
-* Bring that exe file into the folder and double click on it
+* Create a folder and bring all your pdfs which have to be merged and rename them according to numeric or alphabetic order
+* Bring that exe file into the folder and double-click on it
 
 ## Warnings you can avoid
 ![image](https://user-images.githubusercontent.com/92109154/230709952-a2dfe87f-9efb-45d9-a46b-1a26101493d1.png)
