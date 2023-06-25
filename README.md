@@ -23,6 +23,10 @@ Tired of using online pdf tools to merge multiple pdfs, also annoying ads for me
 
 https://user-images.githubusercontent.com/92109154/230680132-bf5efcc1-685b-4f1d-b0d4-67f188400fd2.mp4
 
+## Video Explaination 
+
+https://youtu.be/MOE1W-zLML4
+
 ## Contributing
 
 Contributions are always welcome! Source code will be added soon.
